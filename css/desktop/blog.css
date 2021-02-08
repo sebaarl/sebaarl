@@ -1,0 +1,30 @@
+.blogpost__container--img {
+    padding: 40px 50px 40px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    background-color: #282623;
+}
+
+.blogpost__container--img img {
+    width: 80%;
+}
+
+.blogpost-main-container {
+    padding: 0 50px 40px;
+}
+
+.blogpost__main--container h3 {
+    padding-bottom: 20px;
+    font-size: 1.6rem;
+}
+
+.blogpost__container article h2 {
+    font-size: 3.5rem;
+    margin-bottom: 25px;
+}
+
+.blogpost__container article p {
+    font-size: 1.8rem;
+    margin-bottom: 25px;
+}
