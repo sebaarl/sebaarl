@@ -169,6 +169,8 @@ header .icons span {
     color: white;
     font-size: 1.8rem;
     text-align: center;
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 5px;
 }
 
 .blogs__posts {
